@@ -1,0 +1,19 @@
+{
+    "geode": "3.0.0-beta.1",
+    "gd": {
+        "win": "2.204",
+        "android": "2.204"
+    },
+    "id": "greatshiftrr.zirmenu",
+    "version": "v1.0.0",
+    "name": "ZirMenu",
+    "developer": "greatshiftrr",
+    "description": "ZirMenu for GD",
+    "dependencies": [
+        {
+            "id": "geode.loader",
+            "version": "v3.0.0-beta.1"
+        }
+    ]
+}
+
